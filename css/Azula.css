@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+	font-family: 'Malgun gothic', sans-serif;
+	font-size: 18px;
+	line-height: 30px;
+}
+header{
+	background-color: #788FA7;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: "Rock Salt", cursive;
+
+}
+	/*Header Styles*/
+
+header h1{
+	color: #30535f;
+	font-size: 100px;
+
+}
+header img{
+    border-radius: 150px;
+    width: 300px;
+    border: 5px solid #FDB772;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 35px;
+	color: #FDB772;
+	margin: 50px 0 5px;
+}
+
+a{
+	color: #FDB772;
+}
+
+a:hover{
+	color: white;
+	background-color: #66261D;
+}
+
+footer{
+	background-color: #788FA7;
+	text-align: center;
+	color: white;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: #535353;
+	font-style: italic;
+	font-size: 10px;
+	margin-top: 0;
+
+}
